@@ -24,7 +24,16 @@
 - 🤖 AI Chatbot
 - 📝 Student Registration System
 - 🖼️ Image Recognition System
+## 🚀 Projects
 
+- 🌐 Friends Info – Real-time private social platform.
+- 🤖 Mahbere Mikael Bot – Orthodox Telegram bot.
+- 🇪🇹 Ethio Life Manager – Productivity and life management app.
+- 💼 DZ Software Solutions – PHP business website.
+- 🎨 My First Portfolio – Personal full-stack portfolio.
+- 📚 Student Record Management System – PHP-based student management system.
+- 📊 My Portfolio Dashboards – Dashboard showcasing my projects.
+- 🏫 College Students Info – AMU Revolutionary Course Allocation System.
 ## ⚡ Fun Fact
 I enjoy building beautiful websites and learning new technologies every day.
 
