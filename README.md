@@ -30,7 +30,7 @@
 - 💼 DZ Software Solutions – PHP business website.
 - 🎨 My First Portfolio – Personal full-stack portfolio.
 - 📚 Student Record Management System – PHP-based student management system.
-- 📊 My Portfolio Dashboards – Dashboard showcasing my projects.
+- 📊 My Portfolio Dashboards – it includes the link and descriptions of all of my projects.
 - 🏫 College Students Info – AMU Revolutionary Course Allocation System.
 ## ⚡ Fun Fact
 I enjoy building beautiful websites and learning new technologies every day.
