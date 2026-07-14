@@ -2,7 +2,7 @@
 
 💻 Computer Science Graduate | Full Stack Developer | Ethiopia 🇪🇹
 
-## 👨‍💻
+## 
 - 🔭 I'm currently working on Full Stack Web Development.
 - 🌱 I'm currently learning React, Node.js, AI, and Cloud Computing.
 - 👯 I'm looking to collaborate on open-source projects.
