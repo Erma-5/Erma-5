@@ -24,8 +24,6 @@
 - 🤖 AI Chatbot
 - 📝 Student Registration System
 - 🖼️ Image Recognition System
-## 🚀 Projects
-
 - 🌐 Friends Info – Real-time private social platform.
 - 🤖 Mahbere Mikael Bot – Orthodox Telegram bot.
 - 🇪🇹 Ethio Life Manager – Productivity and life management app.
